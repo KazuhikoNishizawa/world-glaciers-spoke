@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDc51508c733d09110143b94ce3a3465ad</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>efaaabf64750911094759a62736d43c5</scope_name>
+        <serialized_content>{"FlowDesigner:FDc51508c733d09110143b94ce3a3465ad":{},"FlowDesigner:FDc51508c733d09110143b94ce3a3465ad.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Glacier record\",\"mandatory\":\"false\",\"uiUniqueId\":\"62f9006c-215f-466e-b15d-1fe95daa17a4\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDc51508c733d09110143b94ce3a3465ad\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"12\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-29 10:13:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>891508c747d0911094759a62736d43ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDc51508c733d09110143b94ce3a3465ad</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="World Glaciers Spoke" source="x_706742_world_gla">efaaabf64750911094759a62736d43c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="World Glaciers Spoke">efaaabf64750911094759a62736d43c5</sys_scope>
+        <sys_update_name>sys_complex_object_891508c747d0911094759a62736d43ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-29 10:13:53</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
